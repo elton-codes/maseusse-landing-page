@@ -41,8 +41,8 @@ body {
 
 .btn {
     background-color: transparent;
-    padding: 5px 25px;
-    border-radius: 3rem;
+    padding: 1px 40px;
+    border-radius: 30px;
     border: 1px solid white;
 }
 
@@ -106,7 +106,7 @@ background-color: rgb(60, 124, 60);
 }
 
 #nav-links a:hover {
-color:  rgb(60, 124, 60);
+color:  rgba(255, 128, 0);
 }
 
 #img-right {
